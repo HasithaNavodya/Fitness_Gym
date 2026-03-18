@@ -1,9 +1,9 @@
 import React, { useState, useRef, useEffect } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About  from './components/About';
-import Services from './components/Services'
-import Contact from './components/Contact';
+import Navbar from './Components/Navbar';
+import Hero from './Components/Hero';
+import About  from './Components/About';
+import Services from './Components/Services'
+import Contact from './Components/Contact';
 
 function App() {
   const [isSubmitted, setIsSubmitted] = useState(false);
