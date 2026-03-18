@@ -1,6 +1,6 @@
 # 🏋️‍♂️ GymFit - Fitness Brand Website
 
-A clean, modern, and fully responsive promotional website for **GymFit**, a local fitness brand. This project was developed as part of the **Koncepthive Web Development Internship Evaluation**.
+A clean, modern, and fully responsive promotional website for **GymFit**, a local fitness brand. This project was developed as part of the **Web Development Internship Evaluation**.
 
 ---
 
