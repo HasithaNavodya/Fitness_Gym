@@ -5,7 +5,7 @@ A clean, modern, and fully responsive promotional website for **GymFit**, a loca
 ---
 
 ## 🔗 Project Links
-* **🌐 Live Demo:** 
+* **🌐 Live Demo:** https://fitness-brand-website.vercel.app/
   
 * **🎨 Figma Design:** https://www.figma.com/design/wR5a1IGC7dzNgyFBIZQFsv/Fitness-Brand-Website?node-id=0-1&t=N9Q8EkRq5es0LaK2-1
 
